@@ -10,6 +10,6 @@ Currently, two official plugins are available:
 =======
 # Currency_Converter
 
-Website link: <a href="https://samik072.github.io/Currency_Converter/" target="_blank">Currency Converter</a>
+Website link: https://samik072.github.io/Currency_Converter/
 
 
